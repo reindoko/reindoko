@@ -1,6 +1,6 @@
-## Hi! I'm Rein!
+## Hi, I'm Rein!
 
-Random hobbyist gamedev.
+Just a hobbyist gamedev~
 Tools I may use:
 - Godot
 - Blender
@@ -8,4 +8,4 @@ Tools I may use:
 - Krita
 - Fl Studio
 
-I record down any of my notable creations here on Github! They're all here :3
+I keep any of my notable projects I wanna cherish on here :>
