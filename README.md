@@ -7,6 +7,6 @@ Tools I may use:
 - Blender
 - Aseprite
 - Krita
-- Fl Studio
+- LMMS
 
 I keep any of my notable projects I wanna cherish on here :>
